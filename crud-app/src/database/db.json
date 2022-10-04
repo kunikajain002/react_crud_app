@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "rohit sharma",
+      "username": "rohitsharma",
+      "email": "rohit@gamil.com",
+      "phone": "2464783982",
+      "id": 1
+    },
+    {
+      "name": "virat kohli",
+      "username": "Virat",
+      "email": "virat@gmail.com",
+      "phone": "2343328792",
+      "id": 2
+    },
+    {
+      "name": "Sachin Tendulkar",
+      "username": "sachin",
+      "email": "sachin@gmail.com",
+      "phone": "6478392016",
+      "id": 3
+    },
+    {
+      "name": "Rahul dravid",
+      "username": "rahul",
+      "email": "rahulDravid@gmail.com",
+      "phone": "7484937389",
+      "id": 4
+    }
+  ]
+}
